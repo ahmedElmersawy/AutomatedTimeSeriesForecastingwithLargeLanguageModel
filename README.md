@@ -1,4 +1,4 @@
-# ECE57000---Project
+# Automated Time Series Forecasting with Large Language Model
 
 ## Overview
 
